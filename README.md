@@ -67,5 +67,5 @@ Clone the repository and launch the instance using the provided ami-id.
 For detailed documentation/end-to-end implementation guidance or enterprise setup, contact:
 📧 cybersecops@cloudworkmates.com
 
-© 2025 Cloud Workmates | AWS & Cloud Security/Cybersecurity Practice 
+© 2025 Workmates Core2 Cloud Soln| AWS & Cloud Security/Cybersecurity Practice 
 
