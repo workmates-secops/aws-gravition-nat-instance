@@ -34,6 +34,14 @@ Description: ARM-Based NAT instance by Workmates Cybersecops Team
 
 Region: Currently available only in ap-south-1 (Mumbai)
 
+💰 Cost Benefits of ARM (Graviton)
+
+Up to 40% lower cost compared to Intel/AMD-based instances.
+
+Better price-to-performance ratio for network-bound workloads like NAT.
+
+Lower power consumption and optimized for continuous lightweight traffic handling.
+
 📊 Metrics Published
 
 ConntrackCount
