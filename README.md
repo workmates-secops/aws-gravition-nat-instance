@@ -50,7 +50,11 @@ ConntrackUtilization
 
 Memory and network utilization (optional via CloudWatch Agent)
 
-🔧 Quick Start
+<img width="1350" height="609" alt="image" src="https://github.com/user-attachments/assets/d4797bb6-c4c0-4f70-8b19-17ae8dab952b" />
+
+
+
+🔧 **Quick Start**
 
 Clone the repository and launch the instance using the provided ami-id.
 
@@ -60,8 +64,8 @@ Clone the repository and launch the instance using the provided ami-id.
 
 📩 Support
 
-For detailed documentation/nd-to-end implementation guidance or enterprise setup, contact:
+For detailed documentation/end-to-end implementation guidance or enterprise setup, contact:
 📧 cybersecops@cloudworkmates.com
 
-© 2025 Cloud Workmates | AWS & Cloud Security Labs
+© 2025 Cloud Workmates | AWS & Cloud Security/Cybersecurity Practice 
 
