@@ -28,7 +28,7 @@ Easily customizable iptables and monitoring scripts.
 
 🖥️ AMI Details
 
-AMI ID: ami-0e39053683c19ca0c
+AMI ID: ami-0addc2ad0ca5dc615
 
 Description: ARM-Based NAT instance by Workmates Cybersecops Team
 
@@ -45,6 +45,10 @@ Memory and network utilization (optional via CloudWatch Agent)
 🔧 Quick Start
 
 Clone the repository and launch the instance using the provided ami-id.
+
+<img width="1571" height="738" alt="image" src="https://github.com/user-attachments/assets/bf33f1a6-a639-4a93-a26b-6c26d9b79aa7" />
+
+
 
 📩 Support
 
